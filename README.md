@@ -3,7 +3,6 @@
 <h3 align="left">Я 1С-аналитик</h3>
 
 - :fire: &nbsp;Высшее техническое образование
-- :fire: &nbsp;Разрабатываю на платформе **1С 8.3**  
 - :airplane: &nbsp;Найти меня можно в **[Telegram](https://t.me/Takeyourenergy)** и **[Vk](https://vk.com/takeyourenergy)**
 
 
